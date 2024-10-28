@@ -8,4 +8,4 @@ My name is Eduardo, and I am currently pursuing a degree in Computer Science at 
 
 Programming languages that I use in my day to day life
 
-[![My Skills](https://skillicons.dev/icons?i=py,flask,html,css,js,java,mysql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,html,css,js,java,mysql,C#)](https://skillicons.dev)
